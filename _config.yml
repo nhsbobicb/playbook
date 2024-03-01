@@ -1,11 +1,11 @@
 # Edit these site settings
 # ------------------------------------------
-title:             The BOB Way
+title:             The BOB ICB Way
 email:             test@example.net
 author:            Henry Wright
-description:       "The way we do DDaT transformation in BOB ICB"
-url:               "https://nhsbobicb.github.io/"
-baseurl:           "playbook/"
+description:       "The way we do DDaT transformation in Buckinghamshire, Oxfordshire and Berkshire West ICB"
+url:               "https://nhsbobicb.github.io"
+baseurl:           "/playbook"
 date_format:       "%b %-d, %Y"
 # ------------------------------------------
 

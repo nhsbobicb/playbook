@@ -1,5 +1,6 @@
 var CACHE_NAME = "saikiransripada-{{site.time | date: '%Y%m%d%H%M%S'}}";
 
+/*
 self.addEventListener("install", function(e) {
   e.waitUntil(
     caches.open(CACHE_NAME).then(function(cache) {
@@ -9,7 +10,7 @@ self.addEventListener("install", function(e) {
       ]);
     })
   );
-});
+});*/
 
 self.addEventListener("activate", function(e) {
   e.waitUntil(
