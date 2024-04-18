@@ -55,7 +55,7 @@ Run by trained digital professionals within BOB ICB, this 1-day course teaches p
 You have recently been appointed as a “Service Designer” by NHS Newtown and Northshire ICB. The CEO has called you in because she’s concerned about an article she’s recently seen in the local press.
 
 
-<img src="{{site.url}}{{site.baseurl}}/assets/img/newspaper.png">
+<img src="{{site.url}}{{site.baseurl}}/assets/img/newspaper.PNG">
 
 She has asked you to put together a multi-disciplinary team to investigate, propose a solution to the issue and to implement it.
 
