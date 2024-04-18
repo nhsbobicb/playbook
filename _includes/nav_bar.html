@@ -5,6 +5,9 @@
             {% if page.id %}
             <li class="nhsuk-breadcrumb__item"><a class="nhsuk-breadcrumb__link" href="{{ "/blog" | relative_url }}">Blog</a></li>
             {% endif %}
+            {% if page.parent_url %}
+            <li class="nhsuk-breadcrumb__item"><a class="nhsuk-breadcrumb__link" href="{{ site.url }}{{site.baseurl}}/{{page.parent_url}}">{{ page.parent_title }}</a></li>
+            {% endif %}
             <li class="nhsuk-breadcrumb__item"><a class="nhsuk-breadcrumb__link" href="{{ post.url | relative_url }}">{{ page.title }}</a></li>
         </ol>
         <p class="nhsuk-breadcrumb__back"><a class="nhsuk-breadcrumb__backlink" href="{{ "/" | relative_url }}">Back to home page</a></p>
