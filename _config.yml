@@ -1,12 +1,13 @@
 # Edit these site settings
 # ------------------------------------------
-title:             The BOB Way
+title:             BOB Digital Transformation Team
 email:             test@example.net
 author:            Henry Wright
 description:       "The way we do DDaT transformation in Buckinghamshire, Oxfordshire and Berkshire West ICB"
 url:               "https://nhsbobicb.github.io"
 baseurl:           "/playbook"
 date_format:       "%b %-d, %Y"
+github_username:   "nhsbobicb"
 # ------------------------------------------
 
 # Optional features
