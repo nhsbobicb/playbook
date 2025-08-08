@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      A Journey into Primary Care Digital Transformation
-date:       2025-08-08 09:28
+date:       2025-08-07 09:28
 summary:    Sandra updates on her experience of moving to the new team structure and the work she's been involved in
 categories: population scrum procurement primary community
 author:     Sandra Ramsey
