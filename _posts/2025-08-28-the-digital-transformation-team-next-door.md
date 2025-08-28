@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      The Digital Transformation Team Next Door: How BOB ICB is supporting Neighbourhood ways of working as it develops
+title:      "The Digital Transformation Team Next Door: How BOB ICB is supporting Neighbourhood ways of working as it develops"
 date:       2025-08-27 10:07
 summary:    Nadia talks about supporting neighbourhood ways of working
 categories: primary community 
